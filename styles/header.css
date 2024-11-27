@@ -6,7 +6,7 @@
     background-repeat: no-repeat;
     background-position: center;
 }
-Carlos Eduardo Santana Castro 2C 06. 11. 24
+
 .container__botao:checked~.container__rotulo>.cabeçalho__menu-hamburguer {
     background-image: url("../img/MenuAberto.svg");
 }
