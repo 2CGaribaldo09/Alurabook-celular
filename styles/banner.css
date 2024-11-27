@@ -1,10 +1,11 @@
+
 .banner {
     background: var(--azul-degrade);
     color: var(--branco);
     text-align: center;
     padding: 2.5em 2em;
 }
-Carlos Eduardo Santana Castro 2C 06. 11. 24
+
 .banner__titulo {
     font-size: 18px;
     font-weight: 700;
